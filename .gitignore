@@ -1,0 +1,5 @@
+node_modules/
+.env
+package-lock.json
+
+////*mkdir config, controllers, middlewares, routes, services, database*/
